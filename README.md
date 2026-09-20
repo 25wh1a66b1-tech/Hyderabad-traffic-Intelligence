@@ -81,4 +81,4 @@ hyderabad-traffic-intelligence/
 ## Summary
 
 This project is a practical Hyderabad-focused traffic intelligence prototype that combines network modeling, congestion simulation, anomaly detection, forecasting, and route recommendation into a single explainable system.
-> **Live Demo:** [View App](http://localhost:8508)
+> **Live Demo:** [View App](http://localhost:8502)
